@@ -1,7 +1,7 @@
 function App() {
   return (
-	  <div>
-		  <h1>App - DSVendas - Eudes</h1>
+	 <div>
+		  <h1 className="text-primary">App - DSVendas - Eudes</h1>
     </div>
   );
 }
