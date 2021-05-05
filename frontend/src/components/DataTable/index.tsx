@@ -1,5 +1,3 @@
-
-
 function DataTable() {
 	return (
 		<div className="table-responsive">
